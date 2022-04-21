@@ -168,7 +168,7 @@ strong {
   .wrap {
     flex-direction: column;
     gap: 8%;
-    width: 48rem;
+    width: 100vw;
     max-width: calc(100% - 6rem);
     margin: 10rem 1.6rem 10rem;
   }
