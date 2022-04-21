@@ -145,13 +145,11 @@ strong {
     display: flex;
     flex-direction: row;
     margin-top: 4rem;
-    width: 100vw;
     flex-grow: 1;
     gap: 2rem;
   }
 
   .section-text h1 {
-    width: 61.2vw;
     font-size: 7rem;
     font-weight: normal;
     line-height: 8.8rem;
